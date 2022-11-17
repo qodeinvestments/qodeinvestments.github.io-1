@@ -1,4 +1,4 @@
-## Qode Investments Proprietary Trading
+## Qode Investments
 
 Qode Investments is a prop trading entity focused on running quant strategies.
 This website is for members only.
