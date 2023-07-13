@@ -16,9 +16,9 @@ Below are the links to webpages for Reporting of the Prop systems built via Zoho
 ### [2.Slippage Summary Report](https://analytics.zoho.in/open-view/262393000000040543)
   This Report will include P/L, Net Slippages, Entry and exit Slippages, and all other paramaters needed to compare the backtest
   with the Live portfolio. Values are in % and Re terms both.
-  
-  
 
+### [3.Swan Screener](https://analytics.zoho.in/open-view/262393000000759089)
+  This is a Swan F&O stock price screener. 
 
 ### Support or Contact
 
